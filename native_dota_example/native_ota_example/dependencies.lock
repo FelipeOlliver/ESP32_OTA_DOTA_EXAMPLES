@@ -1,0 +1,15 @@
+dependencies:
+  espressif/esp_delta_ota:
+    component_hash: f142d2f63761b0ac92278ba28e036f1222777e5a1745d83b98b340d576b8b8a7
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.1.0
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 4.4.2
+manifest_hash: fe99f5f52c2234e416e4b094a53a1f0d98bb15829ae10fdb5fbe3b56684f3cf2
+target: esp32s3
+version: 1.0.0
